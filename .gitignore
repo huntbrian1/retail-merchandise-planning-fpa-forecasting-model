@@ -1,0 +1,12 @@
+# Excel temp files
+~$*.xlsx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local scratch
+work/
+tmp/
+*.log
